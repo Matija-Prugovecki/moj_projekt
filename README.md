@@ -1,2 +1,2 @@
 “# Moj projekt”:
-echo "# Moj projekt" > README.md
+echo "# Moj projekt IZMJENJENA DATOTEKA" > README.md
